@@ -1,5 +1,11 @@
 # Temperature Converter
-Allow users to convert temperature into multiple units.
+Allow users to convert temperature into multiple units
+
+---
+
+<p align="center">
+<img src="Temperature-Converter.png">
+</p>
 
 ---
 
